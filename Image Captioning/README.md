@@ -1,4 +1,4 @@
-The goal of this project is to automatically generate captions given an image. Encoder-decoder framework is used here. Encoder is a CNN and decoder is LSTM network. Here, we used pretrained resnet-34 model for the encoder. For training, we have used the COCO dataset.
+The goal of this project is to automatically generate captions given an image. Encoder-decoder framework is used here. Encoder is a CNN and decoder is LSTM network. Here, we used pretrained resnet-34 model for the encoder. For training, we have used the COCO dataset. Pytorch version 0.4 is used for this project.
 ## 1. For pycocotools:
 ```
 $ git clone https://github.com/pdollar/coco.git
